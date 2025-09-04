@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/chatserver.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/chatservice.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/main.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/main.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/db/db.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/model/friendmodel.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/model/groupmodel.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/model/usermodel.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/server",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/bwq/Code/Chat-Server-main/src/server/redis/redis.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/bwq/Code/Chat-Server-main/build/src/client",
+  "command": "/usr/bin/g++  -I/home/bwq/Code/Chat-Server-main/include -I/home/bwq/Code/Chat-Server-main/thirdpart -I/home/bwq/Code/Chat-Server-main/include/server -I/home/bwq/Code/Chat-Server-main/include/server/db -I/home/bwq/Code/Chat-Server-main/include/server/model -I/home/bwq/Code/Chat-Server-main/include/server/redis -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/bwq/Code/Chat-Server-main/src/client/main.cpp",
+  "file": "/home/bwq/Code/Chat-Server-main/src/client/main.cpp"
+}
+]
